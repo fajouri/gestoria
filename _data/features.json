@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Consulta gratuita",
+    "description": "Los nuevos clientes reciben una consulta sin compromiso.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Gestores Matriculados",
+    "description": "Todos los miembros de nuestro equipo están certificados.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Cumplimiento fiscal",
+    "description": "Nos mantenemos al día de los últimos cambios en el código fiscal.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
